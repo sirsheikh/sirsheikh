@@ -32,9 +32,9 @@ Integrating AI with backend systems
 
 📫 Connect With Me
 
-💼 [LinkedIn]([url](https://bd.linkedin.com/in/shamsul-islam-rana))
+💼 [LinkedIn](https://bd.linkedin.com/in/shamsul-islam-rana)
 
-🌐 Portfolio/Website
+🌐 [Portfolio/Website](https://sirsheikh.github.io/)
 
 ⚡ Fun Fact
 
