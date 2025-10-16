@@ -32,7 +32,7 @@ Integrating AI with backend systems
 
 📫 Connect With Me
 
-💼 LinkedIn
+💼 [LinkedIn]([url](https://bd.linkedin.com/in/shamsul-islam-rana))
 
 🌐 Portfolio/Website
 
